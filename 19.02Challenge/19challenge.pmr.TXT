@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Student Data
+PURPOSE OF PROJECT: Print student name and test scores and calculate their
+grades. Also to use exceptions
+VERSION or DATE: 4/3/20
+AUTHORS: Joyce Luo
+PMR
+<+>: it was cool to see how you can write exceptions to catch specific errors
+     program was very straightforward to write
+     would like more pratice in using exceptions
+
