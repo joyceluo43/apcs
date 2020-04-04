@@ -1,0 +1,15 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Store
+PURPOSE OF PROJECT: Sort the store products using merge, selection,
+and insertion sort processes.
+VERSION or DATE: 3/25/20
+AUTHORS: Joyce Luo
+PMR
+<+>: similar to the other programs done in this module
+<+>: fun to choose own topic
+<->: I don't really like using BlueJ because it's laggy and hard to debug.
