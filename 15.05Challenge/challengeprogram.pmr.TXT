@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Figure Skating Equipment Inventory
+PURPOSE OF PROJECT: Print out an inventory of products
+VERSION or DATE: 3/8/20
+AUTHORS: Joyce
+PMR:
+<+>: fun to customize my own products (sorry I don't like cars!)
+<+>: structure is very similar to last few programs
+<->: need to focus on small stuff like spaces in my Strings and types of variables
