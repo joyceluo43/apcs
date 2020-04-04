@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all he/she needs to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Contact List
+PURPOSE OF PROJECT: Use binary search and linear printing to search
+a contact list by name, birthday, phone number, email, and relation
+VERSION or DATE: 3/28/20
+AUTHORS: Joyce Luo
+PMR
+<->: I don't like initializing my List because it takes so much time
+<+>: I wanted to count the number of objects being linearprinted, so 
+     I had to shift some code from my binarysearch method to the linearPrint method.
+
